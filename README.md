@@ -1,4 +1,4 @@
-# FiveM-FXManifest-Generator
+# FiveM-Car-FXManifest-Generator
 This script will automatic the fxmanifest.lua file
 
 This script has only been tested with Windows. It should work with Linux but is unknown.
