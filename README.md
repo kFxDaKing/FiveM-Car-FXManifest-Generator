@@ -3,6 +3,15 @@ This script will automatic the fxmanifest.lua file
 
 This script has only been tested with Windows. It should work with Linux but is unknown.
 
+## How to Run
+
+Make sure Python is install on your computer.
+
+In a terminal run
+```bash
+python init.py
+```
+
 ## Changes
 
 I had my cars in the "cars" folder. If your folder is a different name and/or a different place than the root file path you will need to change this. My cars directory was one down (/cars) so if yours is /folder/to/cars then replace "cars/" with "folder/to/cars".
